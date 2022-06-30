@@ -44,4 +44,4 @@
 ### Tools
 <img src="https://img.shields.io/badge/Eclipse-000000?style=flat-square&logo=Eclipse&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479a1?style=flat-square&logo=HTML5L&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5L-E34F26?style=flat-square&logo=HTML5L&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-e7df1e?style=flat-square&logo=JavaScript&logoColor=white"/> 
 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLeeSeolHee%2F&count_bg=%239D9D9D&title_bg=%239D9D9D&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false"/></a>
+
