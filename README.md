@@ -41,7 +41,7 @@
     + 비밀번호와 비밀번호 재확인은 **일치**해야 한다.
     + 모든 입력창은 입력되어야 한다.
     + 위의 조건들을 만족해야 회원가입이 된다.
-### Tools
+### Study
 <img src="https://img.shields.io/badge/Eclipse-000000?style=flat-square&logo=Eclipse&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479a1?style=flat-square&logo=HTML5L&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5L-E34F26?style=flat-square&logo=HTML5L&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-e7df1e?style=flat-square&logo=JavaScript&logoColor=white"/> 
 
 
